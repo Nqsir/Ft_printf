@@ -1,4 +1,4 @@
-# Ft_printf  - En cours d'actualisation
+# Ft_printf
 Recodez votre printf !
 
 Usage identique à la fonction printf :
